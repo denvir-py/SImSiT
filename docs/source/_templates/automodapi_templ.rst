@@ -3,3 +3,4 @@
 
 .. automodapi:: {{ fullname }}
     :no-heading:
+    :inheritance-diagram:
